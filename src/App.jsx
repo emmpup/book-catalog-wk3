@@ -1,5 +1,5 @@
 import Book from "./Book.jsx";
-import books from "/data/books.json";
+import books from "../data/books.json";
 
 function App() {
     function renderBook(book) {
